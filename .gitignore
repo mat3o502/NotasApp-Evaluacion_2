@@ -1,0 +1,17 @@
+# Android
+*.iml
+.gradle/
+build/
+local.properties
+.idea/
+.cxx/
+.kotlin/
+captures/
+*.apk
+
+# Node
+node_modules/
+*.db
+*.db-shm
+*.db-wal
+.env
